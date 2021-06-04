@@ -25,7 +25,7 @@ If you are working in a group, only one member of your team should complete thes
 
 1. Click [this link](https://github.com/new) and set up a new Github  Repository.
    - Give your repository a name that is descriptive of the project. (You can change this later if you think of a better name)
-   - Set the repository to private
+   - Set the repository to public
    - Skip the `Initialize this repository with` section.
    - Click `Create Repository`
    - Set your group members as collaboators.
