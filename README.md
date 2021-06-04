@@ -11,7 +11,7 @@ Below is a list of the contents of this repository - instructions for using them
 - `README.md`: The README for this repo explaining its contents - you're reading it now.
 - `TEMPLATE_README.md`: An example of a project README that provides a brief overview of your whole project.
 - `dsc-phase1-project-template.ipynb`: A starter Jupyter Notebook with headings, code examples and guiding questions.
-- `create_sql_database.ipynb`: A notebook for creating an SQL database if you would prefer to use SQL for this project.
+- `create_sql_database.ipynb`: A notebook for creating a SQL database if you would prefer to use SQL for this project.
 - `DS_Project_Presentation_Template.pdf`: A starter slide deck presenting your project - here is an [editable version](https://docs.google.com/presentation/d/1PaiH1bleXnhiPjTPsAXQSiAK0nkaRlseQIr_Yb-0mz0/copy).
 - `data` folder: A folder for the data you reference with your code.
 - `src` folder: A folder containing custom functions.
