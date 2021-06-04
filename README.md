@@ -28,6 +28,7 @@ If you are working in a group, only one member of your team should complete thes
    - Set the repository to private
    - Skip the `Initialize this repository with` section.
    - Click `Create Repository`
+   - Set your group members as collaboators.
 
 2. Clone the repository you created in step 1
    - Click the green code button
