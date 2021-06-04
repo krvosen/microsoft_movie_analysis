@@ -20,44 +20,36 @@ Below is a list of the contents of this repository - instructions for using them
 
 ## Instructions For Using This Repository
 
-### Fork This Repository
+### Create a new Github repository. 
+If you are working in a group, only one member of your team should complete these steps.
 
-1. Fork this repository to your personal account
-   - In GitHub, go to this repository and click the "Fork" button in the upper right.
+1. Click [this link](https://github.com/new) and set up a new Github  Repository.
+   - Give your repository a name that is descriptive of the project. (You can change this later if think of a better name)
+   - Set the repository to private
+   - Skip the `Initialize this repository with` section.
+   - Click `Create Repository`
+
+2. Clone the repository you created in step 1
+   - Click the green code button
+   - Copy the provided https link. (It should end with `.git`)
+   - Open a terminal window
+   - cd into your phase 1 folder
+   - Clone the github repository
    
-2. Change the name of your fork of this repo to a _descriptive_ name of your choosing
-   - In GitHub, go to your fork of this repo -> "Settings" -> "Options" -> "Repository Name" -> "Rename"
-   - Make the name descriptive, since potential employers will read it. Ex: "Microsoft-Movie-Analysis" is better than "Project-1"
+3. Pull down the project files
+   - cd into the newly created project folder from step 2
+   - run `git remote add upstream https://github.com/learn-co-students/bsc-phase-1.git`
+   - run `git pull upstream main`   
 
-3. Use `git clone` to clone your fork of this repo to your local computer
+4. Push the project files to your personal github repository
 
-### Work In Your Fork Of This Repository
-
-- Work in the repo clone that you created on your local machine
-- Start writing and coding in the Jupyter Notebook `dsc-phase1-project-template.ipynb`
-- Fill in the README template in `TEMPLATE_README.md`
-- Use `git add`, `git commit`, and `git push` often to update your repo in GitHub
-   - For a refresher on how to do this and why it's important, review Topic 2: Bash and Git
+If you are working in a group, and did not complete the above steps, you should clone the repository made by your team member.
 
 ### Use The Slide Template
 
 1. Go to [this link](https://docs.google.com/presentation/d/1PaiH1bleXnhiPjTPsAXQSiAK0nkaRlseQIr_Yb-0mz0/copy) to make an editable copy of the slide deck in your own Google Drive account
 2. Go to "Slide," select "Change Theme," and pick a theme you like so your presentation doesn't look like everyone else's
 
-### Tidy Up Your Project
-
-- Change the file name of the Jupyter Notebook (`dsc-phase1-project-template.ipynb`) to something more descriptive
-- Save an appropriately-named PDF version of your slide deck to the repository
-- Rename the template readme you've been working in by running `git mv TEMPLATE_README.md README.md`
-- Delete unnecessary files from the repo using `git rm`
-   - The presentation PDF: `DS_Project_Presentation_Template.pdf`
-   - This README file: `README.md`
-   - Any unused data files in the `data` folder
-   - Any unused images in the `images` folder
-
-### Submit Your Project
-
-To submit your project, please follow the instructions in the [Project Submission & Review](https://learning.flatironschool.com/courses/1384/pages/project-submission-and-review-online?module_item_id=91641) page on Canvas.
 
 
 ### Notes
