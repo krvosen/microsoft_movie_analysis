@@ -82,6 +82,6 @@ Describe the structure of your repository and its contents, for example:
 ├── src                                 <- Both sourced externally and generated from code
 ├── .gitignore                          <- Large Files, Came with Dataset 
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
 ├── README.md                           <- The top-level README for reviewers of this project
+├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
 ```
