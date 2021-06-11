@@ -76,10 +76,11 @@ For any additional questions, please contact **Kyle Vosen: kylevosen1999@gmail.c
 
 Describe the structure of your repository and its contents, for example:
 ```
-├── data                                <- Both sourced externally and generated from code
 ├── Extra                               <- Generated from code
+├── data                                <- Both sourced externally and generated from code
 ├── images                              <- Both sourced externally and generated from code
 ├── src                                 <- Both sourced externally and generated from code
+├── .gitignore                          <- Large Files, Came with Dataset 
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
 ├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
 ├── README.md                           <- The top-level README for reviewers of this project
