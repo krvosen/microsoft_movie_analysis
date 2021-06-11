@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyzes movie data that helped us come to 3 informed decisions to help Microsoft with its journey to creating a new movie studio. The analysis of the movie industry allowed us to make an informed decision about what genre of movie Microsoft should produce and when to release it. What Microsofts worldwide gross should be compared to its budget. Lastly, what the runtime should be for each of Microsofts movies. Microsoft can use our informed decisions to create the best chance of making a succesful movie.  
+This project analyzes movie data that helped us come to 3 informed decisions to help Microsoft with its journey to creating a new movie studio. The analysis of the movie industry allowed us to make an informed decision about what genre of movie Microsoft should produce and when to release it. What Microsoft should aim their worldwide gross to be when compared to their budget. Lastly, what the runtime should be for each of Microsofts movies. Microsoft can use our informed decisions to create the best chance of making a succesful movie.  
 
 ## Business Problem
 
@@ -68,11 +68,19 @@ This analysis leads to 3 recommendations
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook]    or our presentation 
+Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project.ipynb) or our [presentation](./DS_Project_Presentation.pdf) 
 
 For any additional questions, please contact **Kyle Vosen: kylevosen1999@gmail.com, Charlie Fountain: charliefountain122@gmail.com, Griffin Riner: gnr400800@gmail.com**
 
 ## Repository Structure
 
 Describe the structure of your repository and its contents, for example:
-
+```
+├── data                                <- Both sourced externally and generated from code
+├── Extra                               <- Generated from code
+├── images                              <- Both sourced externally and generated from code
+├── src                                 <- Both sourced externally and generated from code
+├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── README.md                           <- The top-level README for reviewers of this project
+```
